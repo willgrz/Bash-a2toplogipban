@@ -1,0 +1,3 @@
+#OLD!
+#requires: maxmind IP DB - binary "geoiplookup", script named iptables_add that accepts an IP as arg and adds it to DROP
+#Reads out top IPs and offers to iptable them
